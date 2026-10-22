@@ -1,5 +1,5 @@
 # Silent Under-treatment: Does Racial Pain-Treatment Bias Persist in Language Models?
-This project was made for Data 709: Designing Value-Aligned AI: Computational and Ethical Foundations. View our final trasncript of our research here: https://www.overleaf.com/read/kjjyyqwwfnkq#875fcc
+This project was made for Data 709: Designing Value-Aligned AI: Computational and Ethical Foundations. View our final transcript of our research here: https://www.overleaf.com/read/kjjyyqwwfnkq#875fcc
 
 ## Purpose 
 Due to medical stereotypes, patients who are African American/Black have been subjugated to being severely under treated for pain. With a rise in AI models being used in healthcare spaces, there is a possibility that Large Language Models (LLMs) could continue to perpetuate these harmful assumptions and recommend subpar treatments for Black patients. Hence, we used a GPT-4o-Mini model to generate treatment recommendations for diabetic patients experiencing pain and analyzed the response strengths between African American, Caucasian, male, and female patients. We found differences in treatment recommendations between patients of the same pain level but of different race and/or gender. 
